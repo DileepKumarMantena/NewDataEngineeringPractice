@@ -1,0 +1,7 @@
+
+cd pyhton
+ls
+pyhton .py
+git add
+git commit -m 'intial commit'
+git push origin maingit
