@@ -13,7 +13,6 @@ def find_largest_number(numbers):
 
     return largest
 
-
 # Example usage:
 sample_list = [3, 45, 12, 89, 67, 21]
 result = find_largest_number(sample_list)
